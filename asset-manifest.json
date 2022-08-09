@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pruevaSENA/static/css/main.f7b6e5fd.css",
-    "main.js": "/pruevaSENA/static/js/main.928709c3.js",
+    "main.css": "/pruevaSENA/static/css/main.3aa3510e.css",
+    "main.js": "/pruevaSENA/static/js/main.c0be45f8.js",
     "static/js/787.5d407124.chunk.js": "/pruevaSENA/static/js/787.5d407124.chunk.js",
     "static/media/Fondo-de-encabezado.jpg": "/pruevaSENA/static/media/Fondo-de-encabezado.07b15f5dae3eb7100c9e.jpg",
     "static/media/Fondo-body.png": "/pruevaSENA/static/media/Fondo-body.3258a9dd039264ed5294.png",
@@ -9,12 +9,12 @@
     "static/media/logo-operador.png": "/pruevaSENA/static/media/logo-operador.06bfa21aa0b06e33ed83.png",
     "static/media/logo-sena.png": "/pruevaSENA/static/media/logo-sena.f58aa3dee74c6129ca1b.png",
     "index.html": "/pruevaSENA/index.html",
-    "main.f7b6e5fd.css.map": "/pruevaSENA/static/css/main.f7b6e5fd.css.map",
-    "main.928709c3.js.map": "/pruevaSENA/static/js/main.928709c3.js.map",
+    "main.3aa3510e.css.map": "/pruevaSENA/static/css/main.3aa3510e.css.map",
+    "main.c0be45f8.js.map": "/pruevaSENA/static/js/main.c0be45f8.js.map",
     "787.5d407124.chunk.js.map": "/pruevaSENA/static/js/787.5d407124.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7b6e5fd.css",
-    "static/js/main.928709c3.js"
+    "static/css/main.3aa3510e.css",
+    "static/js/main.c0be45f8.js"
   ]
 }
